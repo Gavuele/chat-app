@@ -4,7 +4,7 @@
 ![Demo App](https://i.ibb.co/gFSMzKN/1.png)
 
 [Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
-
+[Render on hosting](https://chat-app-97tm.onrender.com/)
 Some Features:
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
